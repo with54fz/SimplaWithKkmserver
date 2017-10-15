@@ -1,0 +1,2 @@
+# !!! Новое !!! Печатная форма чека
+RewriteRule ^check/([^/]+)/?$	index.php?module=CheckView&url=$1  [L,QSA]

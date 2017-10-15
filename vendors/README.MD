@@ -1,0 +1,2 @@
+- PHP Mailer
+- QrCode Library

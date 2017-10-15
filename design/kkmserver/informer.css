@@ -1,0 +1,14 @@
+#kkm_status{position:fixed; top:0;right:20px;width:64px;height:64px;background-position: center center;background-repeat: no-repeat}
+#kkm_status.ok{background-color:transparent;}
+#kkm_status.off{background-color:orange;}
+
+#kkm_status span{background-color:red;color:white;
+    padding:2px 6px;border-radius:8px;
+    display:block;position:absolute; top:4px;right:4px;
+}
+#kkm_status span a {text-decoration: none;color:white}
+#kkm_status.icon1{background-image: url(https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Cashier-2-64.png);}
+#kkm_status.icon2{background-image: url(https://cdn2.iconfinder.com/data/icons/finance_icons/PNG/png48/cash_register.png);}
+#kkm_status.icon3{background-image: url(https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/printer-48.png);}
+#kkm_status.icon{background-image: url(https://cdn0.iconfinder.com/data/icons/customicondesign-office6-shadow/48/printer-green.png);}
+
