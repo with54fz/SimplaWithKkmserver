@@ -43,7 +43,7 @@
 Это не тема для сайта, а набор служебных шаблонов, которые можно настроить на свой вкус.       
 #### подпапка add4kkm
 Пример вкусностей, которые можно добавить.
-![скриншот](http://simplacms54fz.ru/simpla/files/uploads/4git.png)
+![скриншот](http://simplacms54fz.ru/files/uploads/4git.png)
 ```
 index.tpl
 
