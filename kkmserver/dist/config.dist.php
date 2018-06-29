@@ -47,6 +47,7 @@ define('KKM_CASHIER_NAME', 'Администратор');
  * 'patent' => 5
  **/
 define('KKM_TAX_VARIANT', 2); // для осн движок симплы не подходит абсолютно
+define('KKM_CASHIER_VATIN', '430601071197');
 
 /*
  * НДС в процентах или ТЕГ НДС:
